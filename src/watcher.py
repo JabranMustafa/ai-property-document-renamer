@@ -13,7 +13,7 @@ from watchdog.events import FileSystemEventHandler
 # ============================================================
 
 PROJECTS_ROOT = Path(
-    r"C:\Users\Jabran Mustafa\Desktop\ai assignment appartment\_Task Example AI-Student"
+    r"C:\Users\YourName\Documents\PropertyProjects"
 )
 
 MAIN_SCRIPT = Path(__file__).resolve().parent / "main.py"

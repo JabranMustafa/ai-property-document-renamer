@@ -147,7 +147,7 @@ For demonstration and testing, the project can be used with a completely synthet
 Example:
 
 ```text
-_Task Example AI-Student/
+_PropertyProjects/
 │
 ├── MUC900/
 └── MUC901/

@@ -20,7 +20,7 @@ from classifier import (
 # This is the REAL company task folder.
 # The program will scan MUC project folders directly from here.
 PROJECTS_ROOT = Path(
-    r"C:\Users\Jabran Mustafa\Desktop\ai assignment appartment\_Task Example AI-Student"
+    r"C:\Users\YourName\Documents\PropertyProjects"
 )
 
 
