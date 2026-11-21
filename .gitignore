@@ -1,0 +1,36 @@
+﻿# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm / IDE files
+.idea/
+
+# Local/private document folders
+input/
+output/
+reference/
+
+# Documents and generated data
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.csv
+*.xlsx
+*.xls
+*.doc
+*.docx
+
+# Environment / credentials
+.env
+.env.*
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db

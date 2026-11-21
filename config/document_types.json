@@ -1,0 +1,98 @@
+{
+  "Jahresabrechnung": [
+    "jahresabrechnung",
+    "verwaltungseinzelabrechnung",
+    "einzelabrechnung"
+  ],
+
+  "Wirtschaftsplan": [
+    "wirtschaftsplan"
+  ],
+
+  "Einzelwirtschaftsplan": [
+    "einzelwirtschaftsplan"
+  ],
+
+  "Gesamtwirtschaftsplan": [
+    "gesamtwirtschaftsplan"
+  ],
+
+  "ETV-Protokoll": [
+    "etv-protokoll",
+    "etv protokoll",
+    "eigentümerversammlung",
+    "eigentuemerversammlung"
+  ],
+
+  "Energieausweis": [
+    "energieausweis"
+  ],
+
+  "Teilungserklärung": [
+    "teilungserklärung",
+    "teilungserklaerung"
+  ],
+
+  "Grundriss": [
+    "grundriss"
+  ],
+
+  "Aufteilungsplan": [
+    "aufteilungsplan",
+    "aufteilungspläne",
+    "aufteilungsplaene"
+  ],
+
+  "Baubeschreibung": [
+    "baubeschreibung"
+  ],
+
+  "Flurkarte": [
+    "flurkarte"
+  ],
+
+  "GBA": [
+    "grundbuchauszug",
+    "grundbuch",
+    "gba"
+  ],
+
+  "Hausordnung": [
+    "hausordnung"
+  ],
+
+  "Versicherungspolice": [
+    "versicherungspolice"
+  ],
+
+  "Wohngebäudeversicherung": [
+    "wohngebäudeversicherung",
+    "wohngebaeudeversicherung"
+  ],
+
+  "Beschlusssammlung": [
+    "beschlusssammlung"
+  ],
+
+  "WEG-Beschlüsse": [
+    "weg-beschlüsse",
+    "weg beschlüsse",
+    "weg-beschluesse"
+  ],
+
+  "Vermögensbericht": [
+    "vermögensbericht",
+    "vermoegensbericht"
+  ],
+
+  "Rücklagenentwicklung": [
+    "rücklagenentwicklung",
+    "ruecklagenentwicklung"
+  ],
+
+  "WoFlV": [
+    "woflv",
+    "wohnflächenverordnung",
+    "wohnflaechenverordnung"
+  ]
+}
