@@ -1088,3 +1088,8 @@ The current implementation can:
 The architecture deliberately separates deterministic file operations from semantic document understanding.
 
 This makes it possible to extend the same system with Claude, Power Automate, Microsoft 365, SharePoint, or other workflow tools while keeping validation and file operations predictable and controlled.
+
+## Demo Video
+
+Watch the demo video
+https://github.com/JabranMustafa/ai-property-document-renamer/releases/download/v1.0.0/AI.Document.Demo.Video.mp4
